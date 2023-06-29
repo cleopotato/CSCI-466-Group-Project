@@ -5,5 +5,5 @@ The main goal was to build a web-based, database-driven, online store that can h
 I was responsible for creating the database, designing/building the website, and implementing the Add-To-Cart (ATC) and Login system for both customers/employees.
 
 **NIU's server will eventually take it down so it is here for preservation**
-![A short gif showcasing the group project] (https://github.com/cleopotato/CSCI-466-Group-Project/blob/main/Untitled%20design.gif)
+![](https://github.com/cleopotato/CSCI-466-Group-Project/blob/main/Untitled%20design.gif)
 
